@@ -1,8 +1,5 @@
-# F1LM updates often, and there is no automated way to transfer data to new versions as they are released. Manually doing do is easy and takes a few minutes. 
 
-***
-
-## When transferring data, you essentially need to copy and paste data from your old spreadsheet to the new one. When pasting data, it is imperative that you **paste values**, not the entire contents of the cells. 
+### When transferring data, you essentially need to copy and paste data from your old spreadsheet to the new one. When pasting data, it is imperative that you **paste values**, not the entire contents of the cells. 
 
 > To paste only cell values, right click on the upper-left most cell of the area that you want to paste and find "Paste Options:" in the menu. Then hover your mouse over the options until you find find "Values." It is normally the second option. Clicking "Values" means that the only data that is being transferred is the values that you entered and not the functions that are built into the sheet.  
 
